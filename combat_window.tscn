@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://synhowyd80ky"]
+
+[ext_resource type="Texture2D" uid="uid://cypa2jxt6po4u" path="res://assets/ui/9patch black.png" id="1_60qd0"]
+
+[node name="combatWindow" type="NinePatchRect" unique_id=1154460208]
+size_flags_horizontal = 3
+texture = ExtResource("1_60qd0")
+patch_margin_left = 5
+patch_margin_top = 5
+patch_margin_right = 5
+patch_margin_bottom = 5
