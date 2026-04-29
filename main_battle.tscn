@@ -23,3 +23,22 @@ alignment = 1
 
 [node name="combatWindow" parent="HBoxContainer" unique_id=1154460208 instance=ExtResource("1_88bge")]
 layout_mode = 2
+
+[node name="combatOptions" parent="." unique_id=361435400 instance=ExtResource("1_88bge")]
+layout_mode = 0
+offset_left = -1.0
+offset_top = 473.0
+offset_right = 381.0
+offset_bottom = 648.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="combatOptions" unique_id=1739490438]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="combatOptions/VBoxContainer" unique_id=1869864750]
+layout_mode = 2
+text = "Fight"
