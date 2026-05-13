@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bmc074pf15u3p"]
+
+[ext_resource type="Texture2D" uid="uid://bwajdli72rj0q" path="res://assets/modelsBorge/defaultBorge.png" id="1_y3so5"]
+
+[node name="borge" type="TextureButton" unique_id=570118517]
+offset_left = 212.0
+offset_top = 29.0
+offset_right = 468.0
+offset_bottom = 285.0
+texture_normal = ExtResource("1_y3so5")

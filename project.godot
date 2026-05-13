@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="borge and TC kill people with hammers"
+run/main_scene="uid://cqm1yeclohya"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+Debug="*uid://doft6xi82ul50"
 
 [display]
 

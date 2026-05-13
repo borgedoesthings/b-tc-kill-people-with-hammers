@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bflmlx1m1ndit"]
+
+[ext_resource type="Texture2D" uid="uid://de2hxbivydfaj" path="res://assets/modelsTC/defaultTC.png" id="1_0gyb1"]
+
+[node name="tc" type="TextureButton" unique_id=1434614440]
+offset_left = 132.0
+offset_top = 172.0
+offset_right = 388.0
+offset_bottom = 428.0
+texture_normal = ExtResource("1_0gyb1")

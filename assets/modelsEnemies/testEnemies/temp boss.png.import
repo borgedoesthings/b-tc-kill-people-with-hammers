@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwajdli72rj0q"
-path="res://.godot/imported/defaultBorge.png-3e361e468e21a189bb0452facb6bb774.ctex"
+uid="uid://ba8g6gseklwua"
+path="res://.godot/imported/temp boss.png-914cb7d7189146e68551680858aa1f4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modelsBorge/defaultBorge.png"
-dest_files=["res://.godot/imported/defaultBorge.png-3e361e468e21a189bb0452facb6bb774.ctex"]
+source_file="res://assets/modelsEnemies/testEnemies/temp boss.png"
+dest_files=["res://.godot/imported/temp boss.png-914cb7d7189146e68551680858aa1f4c.ctex"]
 
 [params]
 
